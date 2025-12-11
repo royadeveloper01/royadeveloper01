@@ -25,12 +25,11 @@ Git • REST APIs
 Become a cloud/DevOps engineer who writes clean code, automates everything, and keeps systems running smoothly.
 
 ## ☕ Little About Me
-Marathon runner 🏃‍♂️ • Football coach ⚽ • Coffee addict ☕  
+Marathon runner 🏃‍♂️ • Football Lover ⚽ • Coffee addict ☕  
 (Surviving on caffeine since I discovered Vietnam.)
 
-<!-- ## 📫 Let’s Connect
-** GitHub | LinkedIn | Anything you want to add
--->
+## 📫 Let’s Connect
+LinkedIn - https://www.linkedin.com/in/chimaobi-prince/
 
 <!--
 **royadeveloper01/royadeveloper01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
